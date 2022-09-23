@@ -1,11 +1,11 @@
 # ArcticaAPI
 Задание по бэкенду
 
-1)Папка ArcticaApi - проект
-2)ArcticaAPI_RequestCollection.url - ссылка на коллекцию запросов в Postman
-https://www.postman.com/technical-astronaut-38185436/workspace/arctica/collection/23405436-e61f56a6-82f2-4011-aeb8-9ef7e61a5571?action=share&creator=23405436
-(P.S. для локалхоста запросы работают только с десктопной версии Postman)
-3)UML.jpg - uml диаграмма простенькой бд для проекта
+1)Папка ArcticaApi - проект  
+2)ArcticaAPI_RequestCollection.url - ссылка на коллекцию запросов в Postman  
+https://www.postman.com/technical-astronaut-38185436/workspace/arctica/collection/23405436-e61f56a6-82f2-4011-aeb8-9ef7e61a5571?action=share&creator=23405436  
+(P.S. для локалхоста запросы работают только с десктопной версии Postman)  
+3)UML.jpg - uml диаграмма простенькой бд для проекта  
 
 Само задание:
 Необходимо разработать API при помощи фреймворка ASP.NET Core. Версия не имеет принципиального значения: можно использовать .NET 6, можно, например, ASP.NET Core 3.1.
